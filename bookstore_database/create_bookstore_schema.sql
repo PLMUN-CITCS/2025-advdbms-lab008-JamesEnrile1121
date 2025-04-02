@@ -1,3 +1,5 @@
+CREATE DATABASE `BookstoreDB`;
+
 USE `BookstoreDB`;
 
 -- Books Table [cite: 11]
